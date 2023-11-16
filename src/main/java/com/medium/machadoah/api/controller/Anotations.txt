@@ -1,0 +1,14 @@
+> MÉTODO GET MÉDICOS!
+
+// PageDefault defines the default values for pageable parameters
+        // size = 10 defines the number of elements per page
+        // sort = "id", asc defines the default ordination
+
+
+        // PAGEABLE EXAMPLES:
+        // http://localhost:8080/medicos?size=1
+        // parameter size defines the number of elements per page
+
+        // ORDINATION EXAMPLES:
+        // http://localhost:8080/medicos?sort=nome,desc
+        // http://localhost:8080/medicos?sort=nome,asc
